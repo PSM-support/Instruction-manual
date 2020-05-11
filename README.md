@@ -1,3 +1,5 @@
+The Power Storage Modules (**PSM**) with storage capacity up to 15 kWh and power rating up to 12 kW connects directly to your **Ferroamp EnergyHub system** DC nanogrid. The versatile storage can be configured to reduce peak power in your building, enable faster Electric Vehicle charging and store your solar energy. The system is ready for back-up and off-grid operation with a suitable EnergyHub inverter. 
+
 # Instruction-manual
 instruction manual 
 
@@ -12,3 +14,4 @@ instruction manual
 # trouble shooting guide 
 
 PSM trouble shooting.pdf
+
