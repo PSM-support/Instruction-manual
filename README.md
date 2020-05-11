@@ -8,3 +8,7 @@ instruction manual
 | Installation manual PSM 10 - ver.1.03.pdf   | 2019-11-25 |incl. PSM 10|
 | Installation manual PSM 10 - ver.1.02.pdf   | 2019-11-18 |    |
 | Installation manual PSM 10 - ver.1.01.pdf   | 2019-10-18 |    |
+
+# trouble shooting guide 
+
+PSM trouble shooting.pdf
