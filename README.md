@@ -21,5 +21,6 @@ PSM trouble shooting.pdf
 |:------------- |:-------------|:------------|:-----------|:----------|
 | to update "List of accessories"   | 2020-10-07 | P5 | text | update ESO packaging details|
 | to remove the screw for fastening the orange jumper brick   | 2020-08-30 | P27 | fig | new fig|
+| to specify the orientation of the adaptor for single ESO installation  | 2020-08-13 | P21 | fig | new fig|
 | "an alterative terminal block..."   | 2020-06-01 | P28 | text | rephase the text|
 
