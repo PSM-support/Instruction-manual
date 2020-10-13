@@ -15,10 +15,10 @@ instruction manual
 
 PSM trouble shooting.pdf
 
-# comment to latest revision 
+# comment to latest revision (ver.1.05)
 
-| issue     | Date       | location | type| comment LT|
-| ------------- |:-------------|:------------|:-----------|:----------|
+| revision     | Date       | location | type| comment LT|
+|:------------- |:-------------|:------------|:-----------|:----------|
 | to remove the screw for fastening the orange jumper brick   | 2020-08-30 | P27 | fig | new fig|
 | "an alterative terminal block..."   | 2020-06-01 | P28 | text | rephase the text|
 
