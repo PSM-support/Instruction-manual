@@ -5,19 +5,19 @@ instruction manual
 
 | Version     | Date       | Comment | 
 | ------------- |:-------------:|:------------:|
-| Installation manual PSM 10 - ver.1.05.pdf   | 2020-01-10 | Latest | 
+| Installation manual PSM 10 - ver.1.05.pdf   | 2020-01-10 | incl. trouble shooting guide; Latest | 
 | Installation manual PSM 10 - ver.1.04.pdf   | 2019-12-13 |    |
 | Installation manual PSM 10 - ver.1.03.pdf   | 2019-11-25 |incl. PSM 10|
 | Installation manual PSM 10 - ver.1.02.pdf   | 2019-11-18 |    |
 | Installation manual PSM 10 - ver.1.01.pdf   | 2019-10-18 |    |
 
-# trouble shooting guide 
+# Trouble shooting guide 
 
 PSM trouble shooting.pdf
 
-# comment to latest revision (ver.1.05)
+# To be included / updted  based on latest revision (ver.1.05)
 
-| revision     | Date       | location | type| comment LT|
+| list of revision     | Date       | location | type| comment LT|
 |:------------- |:-------------|:------------|:-----------|:----------|
 | to update "List of accessories"   | 2020-10-07 | P5 | text | update ESO packaging details|
 | to remove the screw for fastening the orange jumper brick   | 2020-08-30 | P27 | fig | new fig|
