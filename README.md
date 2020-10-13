@@ -18,7 +18,7 @@ PSM trouble shooting.pdf
 # comment to latest revision 
 
 | issue     | Date       | location | fig or txt| comment LT|
-| ------------- |:-------------:|:------------:|:-----------:|
+| ------------- |:-------------|:------------|:-----------:|----------:|
 | No screw for the orange jumper brick   | 2020-08-30 | P27 | text | rephase|
 | "an alterative terminal block"   | 2020-06-01 | P28 | fig | new fig|
 
