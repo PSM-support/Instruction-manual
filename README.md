@@ -20,5 +20,5 @@ PSM trouble shooting.pdf
 | issue     | Date       | location | fig or txt| comment LT|
 | ------------- |:-------------|:------------|:-----------|:----------|
 | to remove the screw for fastening the orange jumper brick   | 2020-08-30 | P27 | text | new fig|
-| "an alterative terminal block"   | 2020-06-01 | P28 | fig | rephase the text|
+| "an alterative terminal block..."   | 2020-06-01 | P28 | fig | rephase the text|
 
