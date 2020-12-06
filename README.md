@@ -17,8 +17,9 @@ PSM trouble shooting.pdf
 
 # To be included / updted  based on latest revision (ver.1.05)
 
-| list of revision     | Date       | location | type| comment LT|
+| Revision     | Date       | location | type| comment LT|
 |:------------- |:-------------|:------------|:-----------|:----------|
+| to include "Parts box" | 2020-11-30 | P5 | text | part box inserted inside the PSM cabinet casing |
 | to update "List of accessories"   | 2020-10-07 | P5 | text | update ESO packaging details|
 | to remove the screw for fastening the orange jumper brick   | 2020-08-30 | P27 | fig | new fig|
 | to specify the orientation of the adaptor for single ESO installation  | 2020-08-13 | P21 | fig | new fig|
