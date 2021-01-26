@@ -5,6 +5,7 @@ instruction manual
 
 | Version     | Date       | Comment | 
 | ------------- |:-------------:|:------------|
+| [Installation manual PSM 10 - ver.1.06.pdf](/Installation%20manual%20PSM%2010%20-%20ver.1.06.pdf)   | 2021-01-23 | **[draft]** incl. upgrade guide| 
 | [Installation manual PSM 10 - ver.1.05.pdf](/Installation%20manual%20PSM%2010%20-%20ver.1.05.pdf)   | 2020-01-10 | **[Latest]** incl. trouble shooting guide| 
 | Installation manual PSM 10 - ver.1.04.pdf   | 2019-12-13 |    |
 | Installation manual PSM 10 - ver.1.03.pdf   | 2019-11-25 |incl. PSM 10|
