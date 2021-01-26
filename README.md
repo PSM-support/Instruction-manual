@@ -26,6 +26,7 @@ PSM trouble shooting.pdf
 | to specify the orientation of the adaptor for single ESO installation  | 2020-08-13 | P21 | fig | new fig|
 | "an alterative terminal block..."   | 2020-06-01 | P28 | text | rephase the text|
 
-# New in ver.1.06 undergone review
+# New in ver.1.06 under review
 Abbreviations
+
 Upgrade Guide
