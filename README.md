@@ -33,6 +33,6 @@ PSM Upgrade Guide
 # "Over temp. warning" [explanation]
 The "Over temp. warning" as stated in 7.1 "Meaning of cabinet LED" refers to that the cell temperature (T) is outside of the norminal range of 3 - 45 degree C during charging. 
 Conditions for warning status (flashing LED on the front panel) release:
-1. Ambient temp is too low: "T < 3 degC" to "T > 5 degC" 
-2. Ambient temp is too high: "T > 50 degC" to "T < 45 degC" 
+1. Ambient temp is too low (T < 3 degC) : T > 5 degC 
+2. Ambient temp is too high (T > 50 degC) : T < 45 degC
 
