@@ -27,6 +27,12 @@ PSM trouble shooting.pdf
 | "an alterative terminal block..."   | 2020-06-01 | P28 | text | rephase the text|
 
 # New in ver.1.06 [under review]
-Abbreviations
+List of Abbreviations
+PSM Upgrade Guide
 
-Upgrade Guide
+# "Over temp. warning" [explanation]
+The "Over temp. warning" as stated in 7.1 "Meaning of cabinet LED" refers to that the cell temperature is outside of the norminal range of 3 - 45 degree C during charging. 
+Conditions for warning status (flashing LED on the front panel) releases:
+1. if too cold: "T < 3 degC" to "T > 5 degC" 
+2. if too warm: "T > 50 degC" to "T < 45 degC" 
+
