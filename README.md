@@ -5,7 +5,7 @@ instruction manual
 
 | Version     | Date       | Comment | 
 | ------------- |:-------------:|:------------|
-| [Installation manual PSM 10 - ver.1.06.pdf](/Installation%20manual%20PSM%2010%20-%20ver.1.06%20-%20draft.pdf)   | 2021-01-23 | **[draft]** incl. upgrade guide| 
+| [Installation manual PSM 10 - ver.1.06.pdf](/Installation%20manual%20PSM%2010%20-%20ver.1.06%20-%20draft.pdf)   | 2021-01-23 | **[draft]** | 
 | [Installation manual PSM 10 - ver.1.05.pdf](/Installation%20manual%20PSM%2010%20-%20ver.1.05.pdf)   | 2020-01-10 | **[Latest]** incl. trouble shooting guide| 
 | Installation manual PSM 10 - ver.1.04.pdf   | 2019-12-13 |    |
 | Installation manual PSM 10 - ver.1.03.pdf   | 2019-11-25 |incl. PSM 10|
@@ -26,6 +26,13 @@ PSM trouble shooting.pdf
 | to specify the orientation of the adaptor for single ESO installation  | 2020-08-13 | P21 | fig | new fig|
 | "an alterative terminal block..."   | 2020-06-01 | P28 | text | rephase the text|
 
-# New in ver.1.06 undergone review
-Abbreviations
-Upgrade Guide
+# New in ver.1.06 [under review]
+List of Abbreviations
+PSM Upgrade Guide
+
+# "Over temp. warning" [explanation]
+The "Over temp. warning" as stated in 7.1 "Meaning of cabinet LED" refers to that the cell temperature (T) is outside of the norminal range of 3 - 45 degree C during charging. 
+Conditions for warning status (flashing LED on the front panel) release:
+1. Ambient temp is too low (T < 3 degC) : T > 5 degC 
+2. Ambient temp is too high (T > 50 degC) : T < 45 degC
+
