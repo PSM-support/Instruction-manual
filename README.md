@@ -27,10 +27,10 @@ PSM trouble shooting.pdf
 | "an alterative terminal block..."   | 2020-06-01 | P28 | text | rephase the text|
 
 # New in ver.1.06 [under review]
-¨* List of Abbreviations
-¨* Illustrations for smaller cabinet
-¨* Illustrations for single ESO assembly
-¨* PSM Upgrade Guide
+* List of Abbreviations
+* Illustrations for smaller cabinet
+* Illustrations for single ESO assembly
+* PSM Upgrade Guide
 
 # "Over temp. warning" [explanation]
 The "Over temp. warning" as stated in 7.1 "Meaning of cabinet LED" refers to that the cell temperature (T) is outside of the norminal range of 3 - 45 degree C during charging. 
