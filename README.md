@@ -18,7 +18,7 @@ PSM trouble shooting.pdf
 
 ## Included / updated in ver.1.06 based on latest release (ver.1.05)
 
-| Revision     | Date       | location | type| comment LT|
+| Revision     | Date       | Page | Type| Comment LT|
 |:------------- |:-------------|:------------|:-----------|:----------|
 | to include "Part box" | 2020-11-30 | P5 | text | canton box inserted inside the PSM cabinet|
 | to update "List of accessories"   | 2020-10-07 | P5 | text | update ESO packaging details|
